@@ -1,0 +1,210 @@
+{
+    "camera_angle_x": 0.9272952079772949,
+    "wall_location": [
+        5.0,
+        0.0,
+        0.0
+    ],
+    "lights": [
+        {
+            "file_path": "./train/000",
+            "location": [
+                -5.0,
+                -4.0,
+                -4.0
+            ]
+        },
+        {
+            "file_path": "./train/001",
+            "location": [
+                -5.0,
+                -4.0,
+                -2.0
+            ]
+        },
+        {
+            "file_path": "./train/002",
+            "location": [
+                -5.0,
+                -4.0,
+                0.0
+            ]
+        },
+        {
+            "file_path": "./train/003",
+            "location": [
+                -5.0,
+                -4.0,
+                2.0
+            ]
+        },
+        {
+            "file_path": "./train/004",
+            "location": [
+                -5.0,
+                -4.0,
+                4.0
+            ]
+        },
+        {
+            "file_path": "./train/005",
+            "location": [
+                -5.0,
+                -2.0,
+                -4.0
+            ]
+        },
+        {
+            "file_path": "./train/006",
+            "location": [
+                -5.0,
+                -2.0,
+                -2.0
+            ]
+        },
+        {
+            "file_path": "./train/007",
+            "location": [
+                -5.0,
+                -2.0,
+                0.0
+            ]
+        },
+        {
+            "file_path": "./train/008",
+            "location": [
+                -5.0,
+                -2.0,
+                2.0
+            ]
+        },
+        {
+            "file_path": "./train/009",
+            "location": [
+                -5.0,
+                -2.0,
+                4.0
+            ]
+        },
+        {
+            "file_path": "./train/010",
+            "location": [
+                -5.0,
+                0.0,
+                -4.0
+            ]
+        },
+        {
+            "file_path": "./train/011",
+            "location": [
+                -5.0,
+                0.0,
+                -2.0
+            ]
+        },
+        {
+            "file_path": "./train/012",
+            "location": [
+                -5.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "file_path": "./train/013",
+            "location": [
+                -5.0,
+                0.0,
+                2.0
+            ]
+        },
+        {
+            "file_path": "./train/014",
+            "location": [
+                -5.0,
+                0.0,
+                4.0
+            ]
+        },
+        {
+            "file_path": "./train/015",
+            "location": [
+                -5.0,
+                2.0,
+                -4.0
+            ]
+        },
+        {
+            "file_path": "./train/016",
+            "location": [
+                -5.0,
+                2.0,
+                -2.0
+            ]
+        },
+        {
+            "file_path": "./train/017",
+            "location": [
+                -5.0,
+                2.0,
+                0.0
+            ]
+        },
+        {
+            "file_path": "./train/018",
+            "location": [
+                -5.0,
+                2.0,
+                2.0
+            ]
+        },
+        {
+            "file_path": "./train/019",
+            "location": [
+                -5.0,
+                2.0,
+                4.0
+            ]
+        },
+        {
+            "file_path": "./train/020",
+            "location": [
+                -5.0,
+                4.0,
+                -4.0
+            ]
+        },
+        {
+            "file_path": "./train/021",
+            "location": [
+                -5.0,
+                4.0,
+                -2.0
+            ]
+        },
+        {
+            "file_path": "./train/022",
+            "location": [
+                -5.0,
+                4.0,
+                0.0
+            ]
+        },
+        {
+            "file_path": "./train/023",
+            "location": [
+                -5.0,
+                4.0,
+                2.0
+            ]
+        },
+        {
+            "file_path": "./train/024",
+            "location": [
+                -5.0,
+                4.0,
+                4.0
+            ]
+        }
+    ]
+}

@@ -1,0 +1,194 @@
+{
+    "camera_angle_x": 1.4073282400780986,
+    "wall_location": [
+        22.5,
+        19.65,
+        0.0
+    ],
+    "lights": [
+        {
+            "file_path": "./train/000",
+            "location": [
+                -22.5,
+                25.3,
+                -19.15
+            ]
+        },
+        {
+            "file_path": "./train/001",
+            "location": [
+                -22.5,
+                25.3,
+                -14.15
+            ]
+        },
+        {
+            "file_path": "./train/002",
+            "location": [
+                -22.5,
+                25.3,
+                -9.15
+            ]
+        },
+        {
+            "file_path": "./train/003",
+            "location": [
+                -22.5,
+                25.3,
+                -4.15
+            ]
+        },
+        {
+            "file_path": "./train/004",
+            "location": [
+                -22.5,
+                25.3,
+                0.85
+            ]
+        },
+        {
+            "file_path": "./train/005",
+            "location": [
+                -22.5,
+                15.3,
+                -19.15
+            ]
+        },
+        {
+            "file_path": "./train/006",
+            "location": [
+                -22.5,
+                15.3,
+                -14.15
+            ]
+        },
+        {
+            "file_path": "./train/007",
+            "location": [
+                -22.5,
+                15.3,
+                -9.15
+            ]
+        },
+        {
+            "file_path": "./train/008",
+            "location": [
+                -22.5,
+                15.3,
+                -4.15
+            ]
+        },
+        {
+            "file_path": "./train/009",
+            "location": [
+                -22.5,
+                15.3,
+                0.85
+            ]
+        },
+        {
+            "file_path": "./train/010",
+            "location": [
+                -22.5,
+                5.3,
+                -19.15
+            ]
+        },
+        {
+            "file_path": "./train/011",
+            "location": [
+                -22.5,
+                5.3,
+                -14.15
+            ]
+        },
+        {
+            "file_path": "./train/012",
+            "location": [
+                -22.5,
+                5.3,
+                -9.15
+            ]
+        },
+        {
+            "file_path": "./train/013",
+            "location": [
+                -22.5,
+                5.3,
+                -4.15
+            ]
+        },
+        {
+            "file_path": "./train/014",
+            "location": [
+                -22.5,
+                -4.7,
+                -19.15
+            ]
+        },
+        {
+            "file_path": "./train/015",
+            "location": [
+                -22.5,
+                -4.7,
+                -14.15
+            ]
+        },
+        {
+            "file_path": "./train/016",
+            "location": [
+                -22.5,
+                -4.7,
+                -9.15
+            ]
+        },
+        {
+            "file_path": "./train/017",
+            "location": [
+                -22.5,
+                -4.7,
+                -4.15
+            ]
+        },
+        {
+            "file_path": "./train/018",
+            "location": [
+                -22.5,
+                -14.7,
+                -19.15
+            ]
+        },
+        {
+            "file_path": "./train/019",
+            "location": [
+                -22.5,
+                -14.7,
+                -14.15
+            ]
+        },
+        {
+            "file_path": "./train/020",
+            "location": [
+                -22.5,
+                -14.7,
+                -9.15
+            ]
+        },
+        {
+            "file_path": "./train/021",
+            "location": [
+                -22.5,
+                -14.7,
+                -4.15
+            ]
+        },
+        {
+            "file_path": "./train/022",
+            "location": [
+                -22.5,
+                -14.7,
+                0.85
+            ]
+        }
+    ]
+}
